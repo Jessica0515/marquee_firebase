@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557787522938",
+    "project_id": "marquee-firebase",
+    "storage_bucket": "marquee-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557787522938:android:e1c63fb7ac4b8f0a5e18c3",
+        "android_client_info": {
+          "package_name": "com.example.marquee_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557787522938-p82vh26h2guvbqfj3ie88ove0spqr572.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Dd6iopejSuPbImseqiDURXAza_6O90I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557787522938-p82vh26h2guvbqfj3ie88ove0spqr572.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
